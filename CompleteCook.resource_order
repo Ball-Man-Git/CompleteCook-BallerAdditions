@@ -287,6 +287,7 @@
     {"name":"shell_commands","order":11,"path":"scripts/shell_commands/shell_commands.yy",},
     {"name":"sound_util","order":10,"path":"scripts/sound_util/sound_util.yy",},
     {"name":"text_util","order":17,"path":"scripts/text_util/text_util.yy",},
+    {"name":"timer_util","order":21,"path":"scripts/timer_util/timer_util.yy",},
     {"name":"tv_util","order":9,"path":"scripts/tv_util/tv_util.yy",},
     {"name":"util_pause","order":3,"path":"scripts/util_pause/util_pause.yy",},
     {"name":"shd_blur","order":1,"path":"shaders/shd_blur/shd_blur.yy",},
