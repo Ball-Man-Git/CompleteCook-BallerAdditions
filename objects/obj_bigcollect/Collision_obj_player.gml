@@ -17,4 +17,7 @@ with instance_create(x, y, obj_collect_number)
 instance_destroy()
 
 with obj_tv
+{
+if object_index != obj_bigescapecollect
 	tv_expression(spr_tv_collect)
+}
